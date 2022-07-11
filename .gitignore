@@ -81,3 +81,4 @@ typings/
 .dynamodb/
 .DS_Store
 .gitattributes 
+node_modules/

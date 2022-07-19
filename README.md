@@ -6,7 +6,6 @@
 ## Skills:
 - JavaScript
 - Bootstrap
-- JavaScript
 - EJS
 - Node JS
 - Express JS
